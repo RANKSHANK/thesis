@@ -1,0 +1,8 @@
+Name,Iterations,Horizontal Resolution,Vertical Resolution,Texture Resolution,Camera Offset,Grid Size,FOV Horizontal,Radial Distortion k1,Radial Distortion k2,Tangential Distortion p1,Tangential Distortion p2
+FOV,,,,,,,60:140:18,,,,
+Radial Distortion K1,,,,,,,,-1.5:1.5:11,,,
+Radial Distortion K2,,,,,,,,,-1:1:11,,
+Tangential Distortion P1,,,,,,,,,,-1:1:11,
+Tangential Distortion P2,,,,,,,,,,,-1:1:11
+Grid Size,,,,,,4:30:14,,,,,
+Camera Offset,,,,,1:0.1:19,,,,,,
